@@ -22,4 +22,4 @@ A NoSQL database provides a mechanism for storage and retrieval of data that is 
 
 ## Author
 
-* Abinet Tesfu  
+* Manny Negussie
